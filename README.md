@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @mispacek
-- 👀 I’m interested in micropython, arduino, javascript, php, html and many others
-- 🌱 I’m currently learning micropython, css, html and JavaScript
-- 💞️ I’m looking to collaborate on simple development platform for kids, something like BBC Microbit
-- 📫 How to reach me you can send me an Email to "mispacek @ email.cz" without spaces
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Iam laziest programmer on earth
+Awesome Programmer - Industrial Automation Specialist and Micropython enthusiast.
 
-<!---
-mispacek/mispacek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+Hello! I'm a 35-year-old programmer from the Czech Republic specializing in industrial automation. When I'm not busy making machines smarter, I love diving into various programming languages and tech hobbies. 
+
+# Interests
+- **Programming:** Python, C, HTML, JavaScript
+- **Microcontrollers:** AVR, ESP32, Arduino
+- **Hobbies:** Photography, graphics, RC models, electronics
+
+# What I Do
+- learn
+- automate
+- innovate
+- share knowledge
+
+
+# Get In Touch
+Email: mispacek@email.cz
+GitHub: https://github.com/mispacek
